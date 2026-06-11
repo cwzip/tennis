@@ -1,5 +1,10 @@
 {
-  "records": [],
+  "records": [
+    {
+      "id": "1781166779709",
+      "record_date": "2026-06-08T08:32:00.000Z"
+    }
+  ],
   "totalSessions": 10,
   "baselineCount": 0
 }
